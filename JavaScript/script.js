@@ -1,0 +1,1 @@
+let calcularIva = (precio) => precio * 0.21;
